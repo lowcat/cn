@@ -1,0 +1,12 @@
+markdown: rdiscount 
+baseurl: /cn
+permalink: /:title
+title: 
+subscribe: 
+exclude: 
+domain: 
+author: Lowcat
+email: 
+twitterID: 
+googleAnalyticsID: 
+disqusShortname: 
